@@ -5,6 +5,7 @@
 **Official CapSolver tools for Google Agent Development Kit agents and multi-agent systems.**
 
 [![Status](https://img.shields.io/badge/status-planned-yellow)](#project-status)
+[![CI](https://github.com/capsolver-ai/google-adk-capsolver/actions/workflows/ci.yml/badge.svg)](https://github.com/capsolver-ai/google-adk-capsolver/actions/workflows/ci.yml)
 [![License](https://img.shields.io/badge/license-ISC-green.svg)](LICENSE)
 [![Docs](https://img.shields.io/badge/docs-CapSolver-7c3aed)](https://docs.capsolver.com/en/guide/ai/capsolver-for-ai-agents/)
 [![Responsible use](https://img.shields.io/badge/use-authorized%20automation-0a7)](#responsible-use)
