@@ -1,20 +1,9 @@
 {
   "name": "google-adk-capsolver",
   "owner": "capsolver-ai",
-  "description": "Official CapSolver tools for Google Agent Development Kit agents and multi-agent systems.",
-  "homepage": "https://docs.capsolver.com/en/guide/ai/capsolver-for-ai-agents/",
-  "topics": [
-    "capsolver",
-    "google-adk",
-    "google-agents",
-    "ai-agents",
-    "multi-agent",
-    "captcha",
-    "agent-tools",
-    "python",
-    "gemini",
-    "browser-automation"
-  ],
-  "visibility": "public",
-  "status": "next-wave"
+  "description": "Runnable Google ADK examples using the CapSolver Agent library.",
+  "homepage": "https://docs.capsolver.com/en/guide/ai/agent-tools/",
+  "topics": ["capsolver", "google-adk", "gemini", "ai-agents", "agent-tools", "captcha", "examples", "python", "llm", "automation"],
+  "visibility": "private",
+  "status": "demo"
 }

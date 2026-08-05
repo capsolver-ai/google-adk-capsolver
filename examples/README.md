@@ -1,5 +1,5 @@
 # Examples
 
-Examples must be runnable and safe to share. Copy .env.example to .env, provide your own keys, and use only pages and accounts you are authorized to automate.
+`capsolver_demo/agent.py` exports the `root_agent` expected by Google ADK. ADK turns the two Python functions into tools; both delegate to `capsolver_agent.create_executor()`.
 
-Released adapters should provide minimal setup, token mode, browser recovery where applicable, and structured error handling.
+From the repository root, run `adk web examples` or `adk run examples/capsolver_demo` after installing `requirements.txt` and exporting `.env.example` values.
